@@ -1,0 +1,5 @@
+{
+  "name": "BOM Pricing Database System",
+  "description": "A centralized Bill of Materials pricing management system for electronic components with automated Excel processing and role-based access.",
+  "requestFramePermissions": []
+}
